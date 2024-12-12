@@ -1,6 +1,6 @@
 # git_basico
 
-Este repositorio es la primera práctica para usar git, en Implantación De Aplicaciones Web.
+Este repositorio es la primera práctica para usar git, en Implantacion De Aplicaciones Web.
 
 ## Comandos esenciales
 
