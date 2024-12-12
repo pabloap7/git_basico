@@ -16,5 +16,4 @@ Este repositorio es la primera práctica para usar git, en Implantación De Apli
 
 ¡Gracias!
 
-
 EDITADO DESDE VISUAL STUDIO CARPETA2
