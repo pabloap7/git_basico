@@ -17,4 +17,4 @@ Este repositorio es la primera práctica para usar git, en Implantacion De Aplic
 ¡Gracias!
 
 
-EDITADO DESDE VISUAL STUDIO CARPETA2
+EDITADO DESDE VISUAL STUDIO CARPETA2 el lunes 17
